@@ -1,0 +1,1 @@
+// const calcLiga = require('./calcLiga');
