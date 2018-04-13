@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node ./src/example.js",
+    "start": "node ./src/index.js",
     "test": "jest",
     "test:watch": "jest --watchAll",
     "lint": "eslint src/. --config .eslintrc.json"

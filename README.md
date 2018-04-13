@@ -6,7 +6,8 @@
 3. yarn install
 
 ## Calculate
-- check example.js
+- check index.js
+- yarn start
 
 ## Other
 - check package.json

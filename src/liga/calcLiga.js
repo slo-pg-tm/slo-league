@@ -89,7 +89,8 @@ const calcScore = data => {
           glider: pilotData.glider,
           female: pilotData.female,
           sumPoints,
-          pilotTasks,
+          flewTasks: pilotTasks,
+          allTasks: pilotTasksArray,
           discarded: pilotTasksArray.slice(pilotTasksArray.length - discards)
         }
       );
