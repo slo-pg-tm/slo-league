@@ -1,0 +1,322 @@
+[
+  {
+    "CIVLID": "1641",
+    "name": "Joze Molek",
+    "glider": "Ozone Ozone Enzo 3",
+    "female": 0,
+    "sumPoints": 1965,
+    "flewTasks": {
+      "1": 965,
+      "2": 1000
+    },
+    "allTasks": [
+      1000,
+      965
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "4385",
+    "name": "Bojan Gabersek",
+    "glider": "Ozone Enzo 3",
+    "female": 0,
+    "sumPoints": 1813,
+    "flewTasks": {
+      "1": 921,
+      "2": 892
+    },
+    "allTasks": [
+      921,
+      892
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "36096",
+    "name": "Tadej Krevh",
+    "glider": "Ozone Enzo3",
+    "female": 0,
+    "sumPoints": 1791,
+    "flewTasks": {
+      "1": 952,
+      "2": 839
+    },
+    "allTasks": [
+      952,
+      839
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "570",
+    "name": "Marko Novak",
+    "glider": "Ozone Enzo",
+    "female": 0,
+    "sumPoints": 1689,
+    "flewTasks": {
+      "1": 859,
+      "2": 830
+    },
+    "allTasks": [
+      859,
+      830
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "404",
+    "name": "Tomaz Erzen",
+    "glider": "Ozone enzo 3",
+    "female": 0,
+    "sumPoints": 1530,
+    "flewTasks": {
+      "1": 731,
+      "2": 799
+    },
+    "allTasks": [
+      799,
+      731
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "12672",
+    "name": "Dušan Orož",
+    "glider": "Ozone EnZo 3",
+    "female": 0,
+    "sumPoints": 1502,
+    "flewTasks": {
+      "1": 836,
+      "2": 666
+    },
+    "allTasks": [
+      836,
+      666
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "5512",
+    "name": "Dušan Durkovič",
+    "glider": "Davinci XCHORD / XR7",
+    "female": 0,
+    "sumPoints": 1493,
+    "flewTasks": {
+      "1": 691,
+      "2": 802
+    },
+    "allTasks": [
+      802,
+      691
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "4376",
+    "name": "Alojz Tovornik",
+    "glider": "Ozone ZENO",
+    "female": 0,
+    "sumPoints": 1438,
+    "flewTasks": {
+      "1": 651,
+      "2": 787
+    },
+    "allTasks": [
+      787,
+      651
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "14372",
+    "name": "Damjan Čretnik",
+    "glider": "Triple Seven Gliders Queen 2",
+    "female": 0,
+    "sumPoints": 1420,
+    "flewTasks": {
+      "1": 756,
+      "2": 664
+    },
+    "allTasks": [
+      756,
+      664
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "12671",
+    "name": "Tomaž Toplak",
+    "glider": "Ozone Enzo 3",
+    "female": 0,
+    "sumPoints": 1229,
+    "flewTasks": {
+      "1": 374,
+      "2": 855
+    },
+    "allTasks": [
+      855,
+      374
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "893",
+    "name": "Rok Dolinsek",
+    "glider": "Ozone Enzo 3",
+    "female": 0,
+    "sumPoints": 977,
+    "flewTasks": {
+      "1": 188,
+      "2": 789
+    },
+    "allTasks": [
+      789,
+      188
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "17659",
+    "name": "Mitja Jančič",
+    "glider": "Nova Sector",
+    "female": 0,
+    "sumPoints": 977,
+    "flewTasks": {
+      "1": 832,
+      "2": 145
+    },
+    "allTasks": [
+      832,
+      145
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "36054",
+    "name": "Boštjan Poročnik",
+    "glider": "Ozone Enzo 2",
+    "female": 0,
+    "sumPoints": 969,
+    "flewTasks": {
+      "1": 168,
+      "2": 801
+    },
+    "allTasks": [
+      801,
+      168
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "748",
+    "name": "Stojan Kranjc",
+    "glider": "777 Gliders Queen 2",
+    "female": 0,
+    "sumPoints": 790,
+    "flewTasks": {
+      "1": 542,
+      "2": 248
+    },
+    "allTasks": [
+      542,
+      248
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "31758",
+    "name": "Peter Kocjan",
+    "glider": "Niviuk Gliders Ikuma",
+    "female": 0,
+    "sumPoints": 780,
+    "flewTasks": {
+      "1": 168,
+      "2": 612
+    },
+    "allTasks": [
+      612,
+      168
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "9427",
+    "name": "Tomaz Trstenjak",
+    "glider": "Ozone enzo 3",
+    "female": 0,
+    "sumPoints": 752,
+    "flewTasks": {
+      "1": 614,
+      "2": 138
+    },
+    "allTasks": [
+      614,
+      138
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "31638",
+    "name": "Rok Lotrič",
+    "glider": "Ozone Delta 3",
+    "female": 0,
+    "sumPoints": 747,
+    "flewTasks": {
+      "1": 409,
+      "2": 338
+    },
+    "allTasks": [
+      409,
+      338
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "14915",
+    "name": "Rok Vegelj",
+    "glider": "Tripe Seven Gliders Queen2",
+    "female": 0,
+    "sumPoints": 702,
+    "flewTasks": {
+      "1": 41,
+      "2": 661
+    },
+    "allTasks": [
+      661,
+      41
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "36030",
+    "name": "Mitja Jug",
+    "glider": "Ozone Delta 3",
+    "female": 0,
+    "sumPoints": 661,
+    "flewTasks": {
+      "1": 374,
+      "2": 287
+    },
+    "allTasks": [
+      374,
+      287
+    ],
+    "discarded": []
+  },
+  {
+    "CIVLID": "57580",
+    "name": "Gregor Bahč",
+    "glider": "Macpara Elan 2",
+    "female": 0,
+    "sumPoints": 644,
+    "flewTasks": {
+      "1": 388,
+      "2": 256
+    },
+    "allTasks": [
+      388,
+      256
+    ],
+    "discarded": []
+  }
+]
