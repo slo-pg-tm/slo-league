@@ -1691,7 +1691,7 @@
           <FsCustomAttribute name="Class" value="EN-C" />
         </FsCustomAttributes>
       </FsParticipant>
-      <FsParticipant id="88" name="Tadej Krevh" nat_code_3166_a3="SLO" female="0" birthday="1978-02-06" glider="Ozone - enzo 3" glider_main_colors="" sponsor="Adrenalin Gornje Posočje, High Adventure, Naviter" fai_licence="" CIVLID="">
+      <FsParticipant id="88" name="Tadej Krevh" nat_code_3166_a3="SLO" female="0" birthday="1978-02-06" glider="Ozone - enzo 3" glider_main_colors="" sponsor="Adrenalin Gornje Posočje, High Adventure, Naviter" fai_licence="" CIVLID="36096">
         <FsCustomAttributes>
           <FsCustomAttribute name="Live" value="30071" />
           <FsCustomAttribute name="Class" value="CCC" />

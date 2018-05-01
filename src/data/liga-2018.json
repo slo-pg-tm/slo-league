@@ -72,6 +72,30 @@
     ]
   },
   {
+    "CIVLID": "36096",
+    "name": "Tadej Krevh",
+    "glider": "Ozone - enzo 3",
+    "female": 0,
+    "sumPoints": 3505,
+    "flewTasks": {
+      "1": 952,
+      "2": 839,
+      "3": 456,
+      "4": 919,
+      "5": 795
+    },
+    "allTasks": [
+      952,
+      919,
+      839,
+      795,
+      456
+    ],
+    "discarded": [
+      456
+    ]
+  },
+  {
     "CIVLID": "570",
     "name": "Marko Novak",
     "glider": "Ozone Enzo 2",
@@ -262,28 +286,6 @@
     ]
   },
   {
-    "CIVLID": "",
-    "name": "Tadej Krevh",
-    "glider": "Ozone - enzo 3",
-    "female": 0,
-    "sumPoints": 2170,
-    "flewTasks": {
-      "3": 456,
-      "4": 919,
-      "5": 795
-    },
-    "allTasks": [
-      919,
-      795,
-      456,
-      0,
-      0
-    ],
-    "discarded": [
-      0
-    ]
-  },
-  {
     "CIVLID": "748",
     "name": "Stojan Kranjc",
     "glider": "777 Gliders - Queen 2",
@@ -305,27 +307,6 @@
     ],
     "discarded": [
       248
-    ]
-  },
-  {
-    "CIVLID": "36096",
-    "name": "Tadej Krevh",
-    "glider": "Ozone Enzo3",
-    "female": 0,
-    "sumPoints": 1791,
-    "flewTasks": {
-      "1": 952,
-      "2": 839
-    },
-    "allTasks": [
-      952,
-      839,
-      0,
-      0,
-      0
-    ],
-    "discarded": [
-      0
     ]
   },
   {

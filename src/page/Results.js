@@ -6,8 +6,9 @@ function Results({ results }) {
   return (
     <Fragment>
       <h3>Rezultati:</h3>
-      <table>
-        <thead>
+      <div style={{overflowX: 'auto'}}>
+        <table>
+          <thead>
           <tr>
             <th>&nbsp;</th>
             <th>Pilot</th>
@@ -21,8 +22,8 @@ function Results({ results }) {
             }
             <th>Točke</th>
           </tr>
-        </thead>
-        <tbody>
+          </thead>
+          <tbody>
           {results.map((result, index) => {
             return (
               <ResultItem
@@ -32,8 +33,9 @@ function Results({ results }) {
               />
             );
           })}
-        </tbody>
-      </table>
+          </tbody>
+        </table>
+      </div>
     </Fragment>
   );
 }
