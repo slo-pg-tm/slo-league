@@ -56,7 +56,16 @@ const readFsdb = filepath => {
   let tasksIds = [];
   let taskResultsById = {};
 
-  tasksIds = jsonData.Fs.FsCompetition.FsTasks.FsTask.map(task => {
+
+  let list = [];
+  // some fsdb shit
+  if (jsonData.Fs.FsCompetition.FsTasks.FsTask.map) {
+    list = jsonData.Fs.FsCompetition.FsTasks.FsTask;
+  } else {
+    list.push(jsonData.Fs.FsCompetition.FsTasks.FsTask);
+  }
+
+  tasksIds = list.map(task => {
     tasksById = Object.assign({}, tasksById, {
       [task.id]: {
         id: task.id,

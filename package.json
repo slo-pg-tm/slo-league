@@ -6,6 +6,7 @@
   "license": "MIT",
   "scripts": {
     "start": "babel-node ./src/index.js",
+    "startd": "babel-node --inspect-brk ./src/index.js",
     "test": "jest",
     "test:watch": "jest --watchAll",
     "lint": "eslint src/. --config .eslintrc.json"
