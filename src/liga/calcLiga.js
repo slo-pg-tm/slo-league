@@ -18,7 +18,8 @@ const getLigaTasksAndPilots = data => {
       const ligaTaskResults = [];
       // each task result
       results.forEach(pilot => {
-        if (pilot.nat_code_3166_a3 === 'SLO') {
+        const nationality = pilot.nat_code_3166_a3;
+        if (nationality === 'SLO' || nationality === 'SVN') {
           const points = Math.round(pilot.points * winnerFactor);
           const ligaPilotResult = Object.assign({}, pilot, {
             points
