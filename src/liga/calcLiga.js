@@ -1,7 +1,7 @@
 const getWinnerFactor = require('./getWinnerFactor');
 const getDiscardNumber = require('./getDiscardNumber');
 
-const getLigaTasksAndPilots = data => {
+const getLigaTasksAndPilots = ({data, winnerFullPoints = false}) => {
   let pilotsResults = {};
   let ligaTasks = [];
   let taskNumber = 0;
@@ -13,7 +13,7 @@ const getLigaTasksAndPilots = data => {
       taskNumber += 1;
       const results = comp.taskResultsById[taskId];
       const winner = results[0];
-      const winnerFactor = getWinnerFactor(winner.points);
+      const winnerFactor = getWinnerFactor(winner.points, winnerFullPoints);
 
       const ligaTaskResults = [];
       // each task result
@@ -101,8 +101,8 @@ const calcScore = data => {
   return results;
 };
 
-const calcLiga = data => {
-  const pilotsAndTasks = getLigaTasksAndPilots(data);
+const calcLiga = ({data, winnerFullPoints = false}) => {
+  const pilotsAndTasks = getLigaTasksAndPilots({data, winnerFullPoints});
   return calcScore(pilotsAndTasks);
 };
 
