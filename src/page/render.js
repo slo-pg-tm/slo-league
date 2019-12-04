@@ -12,21 +12,22 @@ const html = ({ body, title }) => `
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <title>${title}</title>
       <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+      <link href="./style.css" rel="stylesheet">
       <style>
         body {
             font-family: 'Roboto', sans-serif;
         }
-        
+
         th, td {
             padding: 0 8px;
             text-align: left;
         }
-        
+
         .discarded {
             text-decoration: line-through;
         }
       </style>
-    </head>      
+    </head>
     <body>
       <div id="app">${body}</div>
     </body>

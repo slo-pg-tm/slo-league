@@ -7,12 +7,11 @@ function Results({ results }) {
     <Fragment>
       <h3>Rezultati:</h3>
       <div style={{overflowX: 'auto'}}>
-        <table>
+        <table className="table">
           <thead>
           <tr>
-            <th>&nbsp;</th>
-            <th>Pilot</th>
-            <th>Glider</th>
+            <th className="sticky pilot">Pilot</th>
+            <th className="glider">Glider</th>
             {
               results[0].allTasks.map((task, index) => {
                 return (

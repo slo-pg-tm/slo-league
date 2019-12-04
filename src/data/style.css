@@ -1,0 +1,43 @@
+.table {
+  border: 1px solid #dadbdc;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table .pilot {
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 1024px) {
+  .table .glider {
+    white-space: nowrap;
+    max-width: 107px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+.table thead tr th,
+.table tr td {
+  padding: 5px 8px;
+}
+
+.table thead tr th {
+  background: #e7eaec !important;
+}
+
+.table tr:nth-child(even) td {
+  background-color: #f8f9f9 !important;
+}
+
+.table tr:hover td {
+  background-color: yellow !important;
+}
+
+.table .pilot {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 0;
+  z-index: 2;
+  background: #fff;
+}

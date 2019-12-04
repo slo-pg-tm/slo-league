@@ -7,9 +7,8 @@ function ResultItem({ rank, result }) {
 
   return (
     <tr>
-      <td>{rank}</td>
-      <td>{name}</td>
-      <td>{glider}</td>
+      <td className="sticky pilot">{rank}. {name}</td>
+      <td className="glider">{glider}</td>
       {
         allTasks.map((task, index) => {
           const isDiscarded = (index + 1) > discardNo;
