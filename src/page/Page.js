@@ -5,11 +5,11 @@ import Results from './Results';
 
 class Page extends Component {
   render() {
-    const { title, organizer, compsData, resultsData } = this.props;
+    const { title, titleWarn, organizer, compsData, resultsData } = this.props;
 
     return (
       <Fragment>
-        <Header title={title} organizer={organizer} compsData={compsData}/>
+        <Header title={title} titleWarn={titleWarn} organizer={organizer} compsData={compsData}/>
         <Results results={resultsData}/>
       </Fragment>
     );
@@ -18,11 +18,14 @@ class Page extends Component {
 
 Page.propTypes = {
   title: PropTypes.string,
+  titleWarn: PropTypes.string,
   organizer: PropTypes.string,
   compsData: PropTypes.array,
   resultsData: PropTypes.array
 };
 
-Page.defaultProps = {};
+Page.defaultProps = {
+  titleWarn: ''
+};
 
 export default Page;

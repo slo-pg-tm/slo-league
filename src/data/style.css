@@ -41,3 +41,21 @@
   z-index: 2;
   background: #fff;
 }
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green
+}
+
+.bgRed {
+  color: white;
+  background: red;
+}
+
+.bgGreen {
+  color: white;
+  background: green;
+}

@@ -57,7 +57,8 @@ jetpack.write(path.join(__dirname, './data/liga-2019-exp-winner1000.json'), liga
 jetpack.write(
   path.join(__dirname, './data/liga-2019-exp-winner1000.html'),
   renderPage({
-    title: 'Slovenska Jadralno padalska liga 2019 experiment winner 1000',
+    title: 'Slovenska Jadralno padalska liga 2019',
+    titleWarn: 'experiment winner factor always to 1000',
     organizer: 'Letalska Zveza Slovenije',
     compsData: compsData,
     resultsData: ligaData
