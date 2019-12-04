@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Fs version="3.4" comment="Supports only a single Fs element in a .fsdb file which must be the root element.">
+  <FsCompetition id="0" name="Sjaerska Open 2019" location="Konjiska" from="2019-06-08" to="2019-06-09" utc_offset="1" discipline="pg" ftv_factor="0" fai_sanctioning="2">
+    <FsScoreFormula id="GAP2018" min_dist="5" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.25" day_quality_override="0" bonus_gr="4" jump_the_gun_factor="0" jump_the_gun_max="0" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0" use_1000_points_for_max_day_quality="0" use_arrival_position_points="0" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="0" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="1" use_time_points="1" scoring_altitude="QNH" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="60" score_back_time="5" use_proportional_leading_weight_if_nobody_in_goal="1" leading_weight_factor="1.00" turnpoint_radius_tolerance="0.002" />
+    <FsCompetitionNotes><![CDATA[]]></FsCompetitionNotes>
+    <FsParticipants>
+      <FsParticipant id="2" name="Bojan  Gaberšek" birthday="1987-06-22" glider="Ozone - e3" fai_licence="161.005" female="0" nat_code_3166_a3="SLO" sponsor="AVTODELI GABERŠEK  IBUS D.O.O ASKELA D.O.O KOMPANI D.O.O, IBUS D.O.O." CIVLID="4385">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="DJP Kajuh" />
+          <FsCustomAttribute name="class" value="CCC" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="3" name="Boštjan Poročnik" birthday="1984-02-17" glider="BGD - BGD Cure" fai_licence="16.097" female="0" nat_code_3166_a3="SLO" sponsor="" CIVLID="36054">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="KL Vrhnika" />
+          <FsCustomAttribute name="class" value="EN-C" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="4" name="Daniel Maraz" birthday="1980-07-19" glider="Triple Seven 777 - Q-Light" fai_licence="" female="0" nat_code_3166_a3="GER" sponsor="" CIVLID="41313">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="" />
+          <FsCustomAttribute name="class" value="EN-C" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="8" name="Dušan Orož" birthday="1978-12-07" glider="Ozone - enzo 3" fai_licence="186.001" female="0" nat_code_3166_a3="SLO" sponsor="" CIVLID="12672">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="DJP Kovk Ajdovščina" />
+          <FsCustomAttribute name="class" value="CCC" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="10" name="Gašper Ferme" birthday="1984-08-28" glider="Niviuk - Niviuk Artik 5" fai_licence="" female="0" nat_code_3166_a3="SLO" sponsor="" CIVLID="14920">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="Jpk Eol Celje" />
+          <FsCustomAttribute name="class" value="EN-C" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="11" name="Grega Rutar" birthday="1985-12-13" glider="Ozon - Delta - 2" fai_licence="130.022" female="0" nat_code_3166_a3="SLO" sponsor="DPL Posočje" CIVLID="15023">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="DPL Posočje" />
+          <FsCustomAttribute name="class" value="EN-C" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="15" name="Jernej Simič" birthday="1989-05-16" glider="Flow Paragliders - XCRacer" fai_licence="" female="0" nat_code_3166_a3="SLO" sponsor="Slovenian young paragliding team, Mercator d.d." CIVLID="36039">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="Polet Nova Gorica" />
+          <FsCustomAttribute name="class" value="EN-D" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="22" name="Matej Gošte" birthday="1980-05-11" glider="2017 - GIN Explorer" fai_licence="111.015" female="0" nat_code_3166_a3="SLO" sponsor="" CIVLID="8387">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="Kondor Radeče" />
+          <FsCustomAttribute name="class" value="EN-B" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="28" name="Mitja Jug" birthday="1981-05-15" glider="Ozone - Delta 3" fai_licence="16.096" female="0" nat_code_3166_a3="SLO" sponsor="" CIVLID="36030">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="DPL Ikar Slovenj Gradec" />
+          <FsCustomAttribute name="class" value="EN-C" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="29" name="Mitja Kuzman" birthday="1990-10-22" glider="Tripe Seven Gliders - Queen 2" fai_licence="" female="0" nat_code_3166_a3="SLO" sponsor="" CIVLID="66787">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="Kondor Radeče" />
+          <FsCustomAttribute name="class" value="EN-C" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="31" name="Pal Takats" birthday="1970-01-01" glider="Ozone - Enzo3 M" fai_licence="" female="0" nat_code_3166_a3="HUN" sponsor="" CIVLID="4364">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="" />
+          <FsCustomAttribute name="class" value="CCC" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="32" name="Peter Kocjan" birthday="1993-04-11" glider="Niviuk - Artik 5" fai_licence="191.000" female="0" nat_code_3166_a3="SLO" sponsor="Naviter, BeXtreme, SYP Team" CIVLID="31758">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="Dpl Lesce-bled" />
+          <FsCustomAttribute name="class" value="EN-C" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="34" name="Rok Lorger" birthday="1988-05-17" glider="Gin Gliders - Carrera" fai_licence="161.066" female="0" nat_code_3166_a3="SLO" sponsor="DJP Lintvar" CIVLID="63011">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="DJP Lintvar, Lintvar Racing Team" />
+          <FsCustomAttribute name="class" value="EN-B" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="38" name="Stojan Kranjc" birthday="1959-10-08" glider="777 - Queen 2" fai_licence="53.007" female="0" nat_code_3166_a3="SLO" sponsor="" CIVLID="748">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="DJP Kovk Ajdovščina" />
+          <FsCustomAttribute name="class" value="EN-C" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="39" name="Tadej Krevh" birthday="1978-02-06" glider="Ozone - enzo 3" fai_licence="43.021" female="0" nat_code_3166_a3="SLO" sponsor="Adrenalin Gornje Posočje, High Adventure, Naviter" CIVLID="36096">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="Adrenalin Gornje Posočje" />
+          <FsCustomAttribute name="class" value="CCC" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="42" name="Tomaž Eržen" birthday="1975-08-28" glider="Ozone - Enzo 3 M" fai_licence="30.006" female="0" nat_code_3166_a3="SLO" sponsor="PRONET, Kranj, d.o.o., GearForFly" CIVLID="404">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="KJP Krokar Železniki" />
+          <FsCustomAttribute name="class" value="CCC" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="43" name="Tomaž Toplak" birthday="1967-07-04" glider="Ozone - enzo 3" fai_licence="92.049" female="0" nat_code_3166_a3="SLO" sponsor="" CIVLID="12671">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="KL Vrhnika" />
+          <FsCustomAttribute name="class" value="CCC" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="45" name="Yoshi Pasha" birthday="1978-07-27" glider="Ozone - ZENO" fai_licence="0823" female="0" nat_code_3166_a3="INA" sponsor="GIN Gliders, SpotUnion Kärnten" CIVLID="19034">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="1. Kärntner Gleitschirm Fliegerclub Radsberg" />
+          <FsCustomAttribute name="class" value="EN-D" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="46" name="Željko Kumer" birthday="1980-01-08" glider="Advance - Iota 2" fai_licence="128333" female="0" nat_code_3166_a3="CRO" sponsor="PJK Zagreb" CIVLID="62526">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="PJK Zagreb" />
+          <FsCustomAttribute name="class" value="EN-B" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="49" name="Robert Hren" birthday="" glider="Enzo 3" glider_main_colors="" fai_licence="" female="0" nat_code_3166_a3="SLO" sponsor="" CIVLID="36097">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="Adrenalin Gornje Posočje" />
+          <FsCustomAttribute name="class" value="CCC" />
+        </FsCustomAttributes>
+      </FsParticipant>
+      <FsParticipant id="50" name="shun hanada" birthday="" glider="xc racer s" glider_main_colors="red" fai_licence="" female="0" nat_code_3166_a3="JPN" sponsor="KEEN ERUK" CIVLID="67111">
+        <FsCustomAttributes>
+          <FsCustomAttribute name="klub" value="" />
+          <FsCustomAttribute name="class" value="EN-D" />
+        </FsCustomAttributes>
+      </FsParticipant>
+    </FsParticipants>
+    <FsTasks>
+      <FsTask id="1" name="Stajerska2019_T1" tracklog_folder="S-T_1">
+        <FsScoreFormula id="GAP2018" min_dist="5" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.25" day_quality_override="0" bonus_gr="4" jump_the_gun_factor="0" jump_the_gun_max="0" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0" use_1000_points_for_max_day_quality="0" use_arrival_position_points="0" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="0" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="1" use_time_points="1" scoring_altitude="QNH" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="60" score_back_time="5" use_proportional_leading_weight_if_nobody_in_goal="1" leading_weight_factor="1" turnpoint_radius_tolerance="0.005" />
+        <FsTaskDefinition ss="2" es="8" goal="CIRCLE" groundstart="0" qnh_setting="1013,25">
+          <FsTurnpoint id="S1" lat="46.33471" lon="15.34667" altitude="853" radius="400" open="2019-06-08T12:00:00+02:00" close="2019-06-08T20:00:00+02:00" />
+          <FsTurnpoint id="T77" lat="46.3213" lon="15.37881" altitude="683" radius="2000" open="2019-06-08T12:45:00+02:00" close="2019-06-08T20:00:00+02:00" />
+          <FsTurnpoint id="T77" lat="46.3213" lon="15.37881" altitude="683" radius="400" open="2019-06-08T12:45:00+02:00" close="2019-06-08T20:00:00+02:00" />
+          <FsTurnpoint id="T4" lat="46.32417" lon="15.41167" altitude="870" radius="400" open="2019-06-08T12:45:00+02:00" close="2019-06-08T20:00:00+02:00" />
+          <FsTurnpoint id="T78" lat="46.35955" lon="15.17286" altitude="922" radius="1000" open="2019-06-08T12:45:00+02:00" close="2019-06-08T20:00:00+02:00" />
+          <FsTurnpoint id="T8" lat="46.28995" lon="15.45788" altitude="555" radius="4500" open="2019-06-08T12:45:00+02:00" close="2019-06-08T20:00:00+02:00" />
+          <FsTurnpoint id="T33" lat="46.29195" lon="15.3025" altitude="264" radius="1000" open="2019-06-08T12:45:00+02:00" close="2019-06-08T20:00:00+02:00" />
+          <FsTurnpoint id="P3" lat="46.3425" lon="15.27445" altitude="321" radius="800" open="2019-06-08T12:45:00+02:00" close="2019-06-08T20:00:00+02:00" />
+          <FsTurnpoint id="P3" lat="46.3425" lon="15.27445" altitude="321" radius="200" open="2019-06-08T12:45:00+02:00" close="2019-06-08T20:00:00+02:00" />
+          <FsStartGate open="2019-06-08T12:45:00+02:00" />
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="5" cancel_reason="" stop_time="2019-06-08T15:49:00+01:00" />
+        <FsParticipants>
+          <FsParticipant id="10">
+            <FsFlightData />
+            <FsResult rank="15" points="0" distance="0" ss_time="00:00:00" finished_ss_rank="3" distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="0" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="11">
+            <FsFlightData />
+            <FsResult rank="15" points="0" distance="0" ss_time="00:00:00" finished_ss_rank="3" distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="0" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="3">
+            <FsFlightData distance="5.705" bonus_distance="7.186" started_ss="2019-06-08T12:45:14+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T12:56:46+02:00" tracklog_filename="Bo_tjan_Poro_nik.20190608-090022.36054.3.igc" lc="4.61508625500214" iv="21502778" ts="2019-06-09T18:03:43+02:00" alt="684" bonus_alt="693" max_alt="1260" last_tracklog_point_distance="5.285" bonus_last_tracklog_point_distance="6.273" last_tracklog_point_time="2019-06-08T13:00:21+02:00" last_tracklog_point_alt="568" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="9" points="39" distance="5.705" ss_time="00:00:00" finished_ss_rank="3" distance_points="39" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="5.705" last_distance="5.285" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="4">
+            <FsFlightData distance="5.390" bonus_distance="7.094" started_ss="2019-06-08T12:45:16+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T12:57:14+02:00" tracklog_filename="Daniel_Maraz.20190608-125825.41313.4.igc" lc="4.6802166221629" iv="21806236" ts="2019-06-09T18:03:43+02:00" alt="722" bonus_alt="890" max_alt="1344" last_tracklog_point_distance="5.253" bonus_last_tracklog_point_distance="6.581" last_tracklog_point_time="2019-06-08T12:58:26+02:00" last_tracklog_point_alt="653" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="12" points="37" distance="5.39" ss_time="00:00:00" finished_ss_rank="3" distance_points="36.9" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="5.39" last_distance="5.253" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="15">
+            <FsFlightData distance="5.960" bonus_distance="7.718" started_ss="2019-06-08T12:45:07+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T12:57:53+02:00" tracklog_filename="Jernej_Simi_.20190608-090322.36039.15.igc" lc="4.56723850482147" iv="21279844" ts="2019-06-09T18:03:43+02:00" alt="752" bonus_alt="803" max_alt="1240" last_tracklog_point_distance="5.288" bonus_last_tracklog_point_distance="6.292" last_tracklog_point_time="2019-06-08T13:03:21+02:00" last_tracklog_point_alt="572" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="6" points="41" distance="5.96" ss_time="00:00:00" finished_ss_rank="3" distance_points="40.8" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="5.96" last_distance="5.288" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="29">
+            <FsFlightData distance="5.035" bonus_distance="6.712" started_ss="2019-06-08T12:47:19+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T12:57:18+02:00" tracklog_filename="Mitja_Kuzman.20190608-090234.66787.29.igc" lc="4.7549918801514" iv="22154632" ts="2019-06-09T18:03:43+02:00" alt="730" bonus_alt="744" max_alt="1065" last_tracklog_point_distance="4.651" bonus_last_tracklog_point_distance="5.611" last_tracklog_point_time="2019-06-08T13:02:33+02:00" last_tracklog_point_alt="561" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="13" points="35" distance="5.035" ss_time="00:00:00" finished_ss_rank="3" distance_points="34.5" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="5.035" last_distance="4.651" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="31">
+            <FsFlightData distance="20.300" bonus_distance="22.208" started_ss="2019-06-08T12:45:09+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T13:39:01+02:00" tracklog_filename="Pal_Takats.20190608-100006.4364.31.igc" lc="2.61495453099397" iv="12183692" ts="2019-06-09T18:03:43+02:00" alt="798" bonus_alt="798" max_alt="1350" last_tracklog_point_distance="17.509" bonus_last_tracklog_point_distance="17.469" last_tracklog_point_time="2019-06-08T14:00:06+02:00" last_tracklog_point_alt="311" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="3" points="145" distance="20.3" ss_time="00:00:00" finished_ss_rank="3" distance_points="138.9" time_points="0" arrival_points="0" departure_points="0" leading_points="6" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="20.3" last_distance="17.509" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="42">
+            <FsFlightData distance="5.641" bonus_distance="7.216" started_ss="2019-06-08T12:45:59+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T12:58:08+02:00" tracklog_filename="Toma__Er_en.20190608-090300.404.42.igc" lc="4.63729135572413" iv="21606237" ts="2019-06-09T18:03:43+02:00" alt="691" bonus_alt="735" max_alt="1249" last_tracklog_point_distance="5.274" bonus_last_tracklog_point_distance="6.274" last_tracklog_point_time="2019-06-08T13:02:59+02:00" last_tracklog_point_alt="571" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="9" points="39" distance="5.641" ss_time="00:00:00" finished_ss_rank="3" distance_points="38.6" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="5.641" last_distance="5.274" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="43">
+            <FsFlightData distance="18.890" bonus_distance="0.000" started_ss="2019-06-08T12:46:03+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T13:58:09+02:00" tracklog_filename="Toma__Toplak.20190608-144456.12671.43.igc" lc="3.01653634713581" iv="14054756" ts="2019-06-09T18:03:43+02:00" alt="-32768" bonus_alt="-32768" max_alt="0" last_tracklog_point_distance="17.513" bonus_last_tracklog_point_distance="0.000" last_tracklog_point_time="2019-06-08T14:06:33+02:00" last_tracklog_point_alt="-32768" landed_before_deadline="1" reachedGoal="0" />
+            <FsFlightDataWarning warning="No baro altitude!" />
+            <FsResult rank="5" points="129" distance="18.89" ss_time="00:00:00" finished_ss_rank="3" distance_points="129.3" time_points="0" arrival_points="0" departure_points="0" leading_points="0.1" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="18.89" last_distance="17.513" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="45">
+            <FsFlightData distance="5.759" bonus_distance="7.419" started_ss="2019-06-08T12:45:17+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T12:59:33+02:00" tracklog_filename="Yoshi_Pasha.20190608-143632.19034.45.igc" lc="4.60942554575475" iv="21476404" ts="2019-06-09T18:03:43+02:00" alt="734" bonus_alt="737" max_alt="1302" last_tracklog_point_distance="5.295" bonus_last_tracklog_point_distance="6.483" last_tracklog_point_time="2019-06-08T13:03:42+02:00" last_tracklog_point_alt="618" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="9" points="39" distance="5.759" ss_time="00:00:00" finished_ss_rank="3" distance_points="39.4" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="5.759" last_distance="5.295" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="49">
+            <FsFlightData distance="5.916" bonus_distance="7.684" started_ss="2019-06-08T12:45:06+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T12:56:40+02:00" tracklog_filename="Robert_Hren.20190608-144135.36097.49.igc" lc="4.57007674131011" iv="21293068" ts="2019-06-09T18:03:43+02:00" alt="741" bonus_alt="849" max_alt="1184" last_tracklog_point_distance="5.414" bonus_last_tracklog_point_distance="6.434" last_tracklog_point_time="2019-06-08T13:03:18+02:00" last_tracklog_point_alt="576" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="6" points="41" distance="5.916" ss_time="00:00:00" finished_ss_rank="3" distance_points="40.5" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="5.916" last_distance="5.414" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="50">
+            <FsFlightData distance="5.918" bonus_distance="7.620" started_ss="2019-06-08T12:45:09+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T12:56:59+02:00" tracklog_filename="shun_hanada.20190608-090322.67111.50.igc" lc="4.56902826714576" iv="21288183" ts="2019-06-09T18:03:43+02:00" alt="718" bonus_alt="835" max_alt="1218" last_tracklog_point_distance="5.302" bonus_last_tracklog_point_distance="6.310" last_tracklog_point_time="2019-06-08T13:03:22+02:00" last_tracklog_point_alt="573" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="6" points="41" distance="5.918" ss_time="00:00:00" finished_ss_rank="3" distance_points="40.5" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="5.918" last_distance="5.302" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="46">
+            <FsFlightData distance="5.015" bonus_distance="7.272" started_ss="2019-06-08T12:45:09+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T12:56:10+02:00" tracklog_filename="_eljko_Kumer.20190608-144420.62526.46.igc" lc="4.75226259147181" iv="22141915" ts="2019-06-09T18:03:43+02:00" alt="851" bonus_alt="1049" max_alt="1346" last_tracklog_point_distance="4.704" bonus_last_tracklog_point_distance="5.924" last_tracklog_point_time="2019-06-08T13:04:24+02:00" last_tracklog_point_alt="626" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="14" points="34" distance="5.015" ss_time="00:00:00" finished_ss_rank="3" distance_points="34.3" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="5.015" last_distance="4.704" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="34">
+            <FsFlightData />
+            <FsResult rank="15" points="0" distance="0" ss_time="00:00:00" finished_ss_rank="3" distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="0" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="22">
+            <FsFlightData />
+            <FsResult rank="15" points="0" distance="0" ss_time="00:00:00" finished_ss_rank="3" distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="0" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="28">
+            <FsFlightData />
+            <FsResult rank="15" points="0" distance="0" ss_time="00:00:00" finished_ss_rank="3" distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="0" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="32">
+            <FsFlightData />
+            <FsResult rank="15" points="0" distance="0" ss_time="00:00:00" finished_ss_rank="3" distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="0" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="38">
+            <FsFlightData />
+            <FsResult rank="15" points="0" distance="0" ss_time="00:00:00" finished_ss_rank="3" distance_points="0" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="0" last_distance="0" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="8">
+            <FsFlightData distance="18.652" bonus_distance="20.092" started_ss="2019-06-08T12:46:02+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-08T13:55:25+02:00" tracklog_filename="Du_an_Oro_.20190608-100702.12672.8.igc" lc="2.88091682443629" iv="13422873" ts="2019-06-09T18:03:44+02:00" alt="565" bonus_alt="874" max_alt="1279" last_tracklog_point_distance="17.588" bonus_last_tracklog_point_distance="17.528" last_tracklog_point_time="2019-06-08T14:02:01+02:00" last_tracklog_point_alt="306" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="4" points="130" distance="18.652" ss_time="00:00:00" finished_ss_rank="3" distance_points="127.7" time_points="0" arrival_points="0" departure_points="0" leading_points="2" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:03:44+02:00" real_distance="18.652" last_distance="17.588" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="2">
+            <FsFlightData distance="51.977" bonus_distance="51.977" started_ss="2019-06-08T12:45:02+02:00" finished_ss="2019-06-08T15:17:07+02:00" altitude_at_ess="738" finished_task="2019-06-08T15:17:46+02:00" tracklog_filename="Bojan__Gaber_ek.20190608-112448.4385.2.igc" lc="1.84647211930078" iv="8603150" ts="2019-06-09T18:03:44+02:00" alt="543" bonus_alt="543" max_alt="1682" last_tracklog_point_distance="51.977" bonus_last_tracklog_point_distance="51.977" last_tracklog_point_time="2019-06-08T15:17:46+02:00" last_tracklog_point_alt="543" landed_before_deadline="1" reachedGoal="1" />
+            <FsResult rank="1" points="506" distance="51.976" ss_time="02:32:07" finished_ss_rank="1" distance_points="355.8" time_points="128.6" arrival_points="0" departure_points="0" leading_points="21.3" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" finished_ss="2019-06-08T15:17:07+02:00" ss_time_dec_hours="2.53527777777778" ts="2019-06-09T18:03:44+02:00" real_distance="51.976" last_distance="51.976" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="417" scored_ss_time="02:32:07" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="39">
+            <FsFlightData distance="51.977" bonus_distance="51.977" started_ss="2019-06-08T12:47:35+02:00" finished_ss="2019-06-08T15:35:35+02:00" altitude_at_ess="623" finished_task="2019-06-08T15:37:12+02:00" tracklog_filename="Tadej_Krevh.20190608-114344.36096.39.igc" lc="1.7120363454214" iv="7976782" ts="2019-06-09T18:03:44+02:00" alt="534" bonus_alt="534" max_alt="1580" last_tracklog_point_distance="51.977" bonus_last_tracklog_point_distance="51.977" last_tracklog_point_time="2019-06-08T15:37:12+02:00" last_tracklog_point_alt="534" landed_before_deadline="1" reachedGoal="1" />
+            <FsResult rank="2" points="469" distance="51.976" ss_time="02:50:35" finished_ss_rank="2" distance_points="355.8" time_points="85.6" arrival_points="0" departure_points="0" leading_points="27.3" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-08T12:45:00+02:00" finished_ss="2019-06-08T15:35:35+02:00" ss_time_dec_hours="2.84305555555556" ts="2019-06-09T18:03:44+02:00" real_distance="51.976" last_distance="51.976" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="302" scored_ss_time="02:50:35" landed_before_stop="False" />
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="50.876" task_distance="51.976" launch_to_ess_distance="51.376" no_of_pilots_present="21" no_of_pilots_flying="14" no_of_pilots_lo="12" no_of_pilots_reaching_nom_dist="2" no_of_pilots_reaching_es="2" no_of_pilots_reaching_goal="2" sum_flown_distance="212.135" best_dist="51.976" best_time="2.53527777777778" worst_time="2.84305555555556" no_of_pilots_in_competition="21" no_of_pilots_landed_before_stop="0" sum_dist_over_min="142.135" sum_real_dist_over_min="142.135" sum_flown_distances="212.135" best_real_dist="51.976" last_start_time="2019-06-08T12:45:00+02:00" first_start_time="2019-06-08T12:45:00+02:00" first_finish_time="2019-06-08T15:17:07+02:00" max_time_to_get_time_points="4.127533340738" no_of_pilots_with_time_points="2" goalratio="0.142857142857143" arrival_weight="0" departure_weight="0" leading_weight="0.0533066326530612" time_weight="0.251302696793003" distance_weight="0.695390670553936" smallest_leading_coefficient="1.7120363454214" available_points_distance="355.76015209947" available_points_time="128.56583992257" available_points_departure="0" available_points_leading="27.2715418017572" available_points_arrival="0" time_validity="1" launch_validity="0.799810495626822" distance_validity="0.6396484375" stop_validity="1" day_quality="0.511597533823797" ftv_day_validity="0.511597533823797" time_points_stop_correction="0">
+          <FsTaskDistToTp tp_no="1" distance="0.000" />
+          <FsTaskDistToTp tp_no="2" distance="0.499" />
+          <FsTaskDistToTp tp_no="3" distance="2.383" />
+          <FsTaskDistToTp tp_no="4" distance="4.434" />
+          <FsTaskDistToTp tp_no="5" distance="21.839" />
+          <FsTaskDistToTp tp_no="6" distance="39.667" />
+          <FsTaskDistToTp tp_no="7" distance="46.714" />
+          <FsTaskDistToTp tp_no="8" distance="51.376" />
+          <FsTaskDistToTp tp_no="9" distance="51.976" />
+        </FsTaskScoreParams>
+      </FsTask>
+      <FsTask id="2" name="Stajerska209_T2" tracklog_folder="S-T_2">
+        <FsScoreFormula id="GAP2018" min_dist="5" nom_dist="25" nom_time="1" nom_launch="0.96" nom_goal="0.25" day_quality_override="0" bonus_gr="4" jump_the_gun_factor="0" jump_the_gun_max="0" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0" use_1000_points_for_max_day_quality="0" use_arrival_position_points="0" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="0" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="1" use_time_points="1" scoring_altitude="QNH" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="60" score_back_time="5" use_proportional_leading_weight_if_nobody_in_goal="1" leading_weight_factor="1.00" turnpoint_radius_tolerance="0.002" />
+        <FsTaskDefinition ss="2" es="8" goal="CIRCLE" groundstart="0" qnh_setting="1013,25">
+          <FsTurnpoint id="S1" lat="46.33471" lon="15.34667" altitude="853" radius="400" open="2019-06-09T12:00:00+02:00" close="2019-06-09T20:00:00+02:00" />
+          <FsTurnpoint id="T38" lat="46.31758" lon="15.30497" altitude="372" radius="3000" open="2019-06-09T14:00:00+02:00" close="2019-06-09T20:00:00+02:00" />
+          <FsTurnpoint id="T4" lat="46.32417" lon="15.41167" altitude="870" radius="1800" open="2019-06-09T14:00:00+02:00" close="2019-06-09T20:00:00+02:00" />
+          <FsTurnpoint id="T46" lat="46.37757" lon="15.2103" altitude="1045" radius="2600" open="2019-06-09T14:00:00+02:00" close="2019-06-09T20:00:00+02:00" />
+          <FsTurnpoint id="T4" lat="46.32417" lon="15.41167" altitude="870" radius="400" open="2019-06-09T14:00:00+02:00" close="2019-06-09T20:00:00+02:00" />
+          <FsTurnpoint id="T35" lat="46.25917" lon="15.28221" altitude="244" radius="4500" open="2019-06-09T14:00:00+02:00" close="2019-06-09T20:00:00+02:00" />
+          <FsTurnpoint id="T78" lat="46.35955" lon="15.17286" altitude="922" radius="1500" open="2019-06-09T14:00:00+02:00" close="2019-06-09T20:00:00+02:00" />
+          <FsTurnpoint id="P3" lat="46.3425" lon="15.27445" altitude="321" radius="1000" open="2019-06-09T14:00:00+02:00" close="2019-06-09T20:00:00+02:00" />
+          <FsTurnpoint id="P3" lat="46.3425" lon="15.27445" altitude="321" radius="200" open="2019-06-09T14:00:00+02:00" close="2019-06-09T20:00:00+02:00" />
+          <FsStartGate open="2019-06-09T14:00:00+02:00" />
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="5" cancel_reason="" stop_time="2019-06-09T17:21:00+02:00" />
+        <FsParticipants>
+          <FsParticipant id="8">
+            <FsFlightData distance="55.520" bonus_distance="55.520" started_ss="2019-06-09T14:00:12+02:00" finished_ss="2019-06-09T16:17:01+02:00" altitude_at_ess="791" finished_task="2019-06-09T16:18:17+02:00" tracklog_filename="Du_an_Oro_.20190609-105926.12672.8.igc" lc="1.43959877796674" iv="7643867" ts="2019-06-09T18:29:46+02:00" alt="611" bonus_alt="611" max_alt="1788" last_tracklog_point_distance="55.520" bonus_last_tracklog_point_distance="55.520" last_tracklog_point_time="2019-06-09T16:18:17+02:00" last_tracklog_point_alt="611" landed_before_deadline="1" reachedGoal="1" />
+            <FsResult rank="2" points="994" distance="55.519" ss_time="02:17:01" finished_ss_rank="2" distance_points="695.4" time_points="249.6" arrival_points="0" departure_points="0" leading_points="49.3" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" finished_ss="2019-06-09T16:17:01+02:00" ss_time_dec_hours="2.28361111111111" ts="2019-06-09T18:29:48+02:00" real_distance="55.519" last_distance="55.519" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="470" scored_ss_time="02:17:01" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="49">
+            <FsFlightData distance="0.000" bonus_distance="0.000" started_ss="" finished_ss="" altitude_at_ess="0" finished_task="" tracklog_filename="" lc="0" iv="0" ts="2019-06-09T17:33:05+02:00" alt="0" bonus_alt="0" max_alt="0" last_tracklog_point_distance="-179769313486232000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000" bonus_last_tracklog_point_distance="-179769313486232000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000" last_tracklog_point_time="" last_tracklog_point_alt="0" />
+            <FsResult rank="21" points="63" distance="5" ss_time="00:00:00" finished_ss_rank="4" distance_points="62.6" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="5" last_distance="-1.79769313486232E+305" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="2">
+            <FsFlightData distance="55.520" bonus_distance="55.520" started_ss="2019-06-09T14:00:20+02:00" finished_ss="2019-06-09T16:16:58+02:00" altitude_at_ess="842" finished_task="2019-06-09T16:17:56+02:00" tracklog_filename="Bojan__Gaber_ek.20190609-173442.4385.2.igc" lc="1.42555518289829" iv="7569299" ts="2019-06-09T18:29:46+02:00" alt="552" bonus_alt="552" max_alt="1826" last_tracklog_point_distance="55.520" bonus_last_tracklog_point_distance="55.520" last_tracklog_point_time="2019-06-09T16:17:56+02:00" last_tracklog_point_alt="552" landed_before_deadline="1" reachedGoal="1" />
+            <FsResult rank="1" points="998" distance="55.519" ss_time="02:16:58" finished_ss_rank="1" distance_points="695.4" time_points="251.3" arrival_points="0" departure_points="0" leading_points="51" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" finished_ss="2019-06-09T16:16:58+02:00" ss_time_dec_hours="2.28277777777778" ts="2019-06-09T18:29:48+02:00" real_distance="55.519" last_distance="55.519" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="521" scored_ss_time="02:16:58" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="3">
+            <FsFlightData distance="12.051" bonus_distance="12.023" started_ss="2019-06-09T14:00:22+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T14:28:24+02:00" tracklog_filename="Bo_tjan_Poro_nik.20190609-173442.36054.3.igc" lc="3.29309715016632" iv="17485425" ts="2019-06-09T18:29:47+02:00" alt="304" bonus_alt="333" max_alt="1805" last_tracklog_point_distance="12.009" bonus_last_tracklog_point_distance="11.757" last_tracklog_point_time="2019-06-09T14:30:54+02:00" last_tracklog_point_alt="258" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="18" points="151" distance="12.051" ss_time="00:00:00" finished_ss_rank="4" distance_points="150.9" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="12.051" last_distance="12.009" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="4">
+            <FsFlightData distance="38.391" bonus_distance="38.365" started_ss="2019-06-09T14:02:34+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T15:46:30+02:00" tracklog_filename="Daniel_Maraz.20190609-173442.41313.4.igc" lc="1.72134148188729" iv="9139842" ts="2019-06-09T18:29:47+02:00" alt="314" bonus_alt="315" max_alt="1806" last_tracklog_point_distance="38.371" bonus_last_tracklog_point_distance="38.291" last_tracklog_point_time="2019-06-09T15:46:50+02:00" last_tracklog_point_alt="301" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="8" points="513" distance="38.391" ss_time="00:00:00" finished_ss_rank="4" distance_points="480.9" time_points="0" arrival_points="0" departure_points="0" leading_points="31.7" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="38.391" last_distance="38.371" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="10">
+            <FsFlightData distance="31.825" bonus_distance="32.864" started_ss="2019-06-09T14:01:35+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T15:36:58+02:00" tracklog_filename="Ga_per_Ferme.20190609-173442.14920.10.igc" lc="1.98715528983795" iv="10551239" ts="2019-06-09T18:29:47+02:00" alt="485" bonus_alt="638" max_alt="1679" last_tracklog_point_distance="31.753" bonus_last_tracklog_point_distance="32.249" last_tracklog_point_time="2019-06-09T15:39:20+02:00" last_tracklog_point_alt="445" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="9" points="419" distance="31.825" ss_time="00:00:00" finished_ss_rank="4" distance_points="398.6" time_points="0" arrival_points="0" departure_points="0" leading_points="20.6" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="31.825" last_distance="31.753" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="11">
+            <FsFlightData distance="21.378" bonus_distance="22.635" started_ss="2019-06-09T14:00:23+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T15:03:05+02:00" tracklog_filename="Grega_Rutar.20190609-173442.15023.11.igc" lc="2.47294782142184" iv="13130662" ts="2019-06-09T18:29:47+02:00" alt="624" bonus_alt="661" max_alt="1733" last_tracklog_point_distance="19.545" bonus_last_tracklog_point_distance="19.245" last_tracklog_point_time="2019-06-09T15:12:25+02:00" last_tracklog_point_alt="246" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="13" points="272" distance="21.378" ss_time="00:00:00" finished_ss_rank="4" distance_points="267.8" time_points="0" arrival_points="0" departure_points="0" leading_points="4" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="21.378" last_distance="19.545" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="15">
+            <FsFlightData distance="42.543" bonus_distance="42.440" started_ss="2019-06-09T14:00:36+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T16:04:56+02:00" tracklog_filename="Jernej_Simi_.20190609-173442.36039.15.igc" lc="1.63770425242242" iv="8695752" ts="2019-06-09T18:29:47+02:00" alt="274" bonus_alt="302" max_alt="1744" last_tracklog_point_distance="42.359" bonus_last_tracklog_point_distance="42.007" last_tracklog_point_time="2019-06-09T16:06:58+02:00" last_tracklog_point_alt="233" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="6" points="569" distance="42.543" ss_time="00:00:00" finished_ss_rank="4" distance_points="532.9" time_points="0" arrival_points="0" departure_points="0" leading_points="35.8" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="42.543" last_distance="42.359" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="22">
+            <FsFlightData distance="10.018" bonus_distance="10.953" started_ss="2019-06-09T14:00:55+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T14:21:35+02:00" tracklog_filename="Matej_Go_te.20190609-173442.8387.22.igc" lc="3.57602785229509" iv="18987708" ts="2019-06-09T18:29:47+02:00" alt="522" bonus_alt="565" max_alt="1586" last_tracklog_point_distance="8.991" bonus_last_tracklog_point_distance="8.719" last_tracklog_point_time="2019-06-09T14:27:33+02:00" last_tracklog_point_alt="253" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="19" points="126" distance="10.018" ss_time="00:00:00" finished_ss_rank="4" distance_points="125.5" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="10.018" last_distance="8.991" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="28">
+            <FsFlightData distance="21.899" bonus_distance="22.447" started_ss="2019-06-09T14:02:14+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T15:16:53+02:00" tracklog_filename="Mitja_Jug.20190609-173442.36030.28.igc" lc="2.53477478849334" iv="13458946" ts="2019-06-09T18:29:47+02:00" alt="458" bonus_alt="458" max_alt="1464" last_tracklog_point_distance="21.893" bonus_last_tracklog_point_distance="22.441" last_tracklog_point_time="2019-06-09T15:17:18+02:00" last_tracklog_point_alt="458" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="12" points="276" distance="21.899" ss_time="00:00:00" finished_ss_rank="4" distance_points="274.3" time_points="0" arrival_points="0" departure_points="0" leading_points="2.1" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="21.899" last_distance="21.893" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="29">
+            <FsFlightData distance="31.234" bonus_distance="32.457" started_ss="2019-06-09T14:02:17+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T15:35:14+02:00" tracklog_filename="Mitja_Kuzman.20190609-173442.66787.29.igc" lc="2.03151368275435" iv="10786770" ts="2019-06-09T18:29:47+02:00" alt="618" bonus_alt="634" max_alt="1776" last_tracklog_point_distance="31.097" bonus_last_tracklog_point_distance="32.093" last_tracklog_point_time="2019-06-09T15:36:56+02:00" last_tracklog_point_alt="570" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="10" points="410" distance="31.234" ss_time="00:00:00" finished_ss_rank="4" distance_points="391.2" time_points="0" arrival_points="0" departure_points="0" leading_points="18.9" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="31.234" last_distance="31.097" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="32">
+            <FsFlightData distance="40.625" bonus_distance="40.288" started_ss="2019-06-09T14:01:30+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T16:05:15+02:00" tracklog_filename="Peter_Kocjan.20190609-173931.31758.32.igc" lc="1.85514292115667" iv="9850290" ts="2019-06-09T18:29:47+02:00" alt="233" bonus_alt="242" max_alt="1635" last_tracklog_point_distance="40.541" bonus_last_tracklog_point_distance="40.085" last_tracklog_point_time="2019-06-09T16:06:46+02:00" last_tracklog_point_alt="207" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="7" points="535" distance="40.625" ss_time="00:00:00" finished_ss_rank="4" distance_points="508.8" time_points="0" arrival_points="0" departure_points="0" leading_points="25.8" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="40.625" last_distance="40.541" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="38">
+            <FsFlightData distance="20.327" bonus_distance="21.426" started_ss="2019-06-09T14:02:20+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T14:58:37+02:00" tracklog_filename="Stojan_Kranjc.20190609-173442.748.38.igc" lc="2.55275293273469" iv="13554404" ts="2019-06-09T18:29:47+02:00" alt="579" bonus_alt="649" max_alt="1685" last_tracklog_point_distance="19.555" bonus_last_tracklog_point_distance="19.255" last_tracklog_point_time="2019-06-09T15:05:49+02:00" last_tracklog_point_alt="246" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="16" points="256" distance="20.327" ss_time="00:00:00" finished_ss_rank="4" distance_points="254.6" time_points="0" arrival_points="0" departure_points="0" leading_points="1.6" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="20.327" last_distance="19.555" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="39">
+            <FsFlightData distance="20.525" bonus_distance="21.234" started_ss="2019-06-09T14:00:24+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T15:01:38+02:00" tracklog_filename="Tadej_Krevh.20190609-173442.36096.39.igc" lc="2.45343864554191" iv="13027073" ts="2019-06-09T18:29:48+02:00" alt="498" bonus_alt="499" max_alt="1739" last_tracklog_point_distance="19.551" bonus_last_tracklog_point_distance="19.259" last_tracklog_point_time="2019-06-09T15:09:24+02:00" last_tracklog_point_alt="248" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="15" points="262" distance="20.525" ss_time="00:00:00" finished_ss_rank="4" distance_points="257.1" time_points="0" arrival_points="0" departure_points="0" leading_points="4.6" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="20.525" last_distance="19.551" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="42">
+            <FsFlightData distance="9.604" bonus_distance="10.720" started_ss="2019-06-09T14:00:09+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T14:32:43+02:00" tracklog_filename="Toma__Er_en.20190609-173442.404.42.igc" lc="3.63080830896321" iv="19278577" ts="2019-06-09T18:29:48+02:00" alt="358" bonus_alt="916" max_alt="1711" last_tracklog_point_distance="9.448" bonus_last_tracklog_point_distance="9.460" last_tracklog_point_time="2019-06-09T14:34:21+02:00" last_tracklog_point_alt="324" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="20" points="120" distance="9.604" ss_time="00:00:00" finished_ss_rank="4" distance_points="120.3" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="9.604" last_distance="9.448" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="43">
+            <FsFlightData distance="55.520" bonus_distance="55.520" started_ss="2019-06-09T14:00:30+02:00" finished_ss="2019-06-09T16:27:02+02:00" altitude_at_ess="737" finished_task="2019-06-09T16:28:28+02:00" tracklog_filename="Toma__Toplak.20190609-174737.12671.43.igc" lc="1.43673615678701" iv="7628667" ts="2019-06-09T18:29:48+02:00" alt="487" bonus_alt="487" max_alt="1754" last_tracklog_point_distance="55.520" bonus_last_tracklog_point_distance="55.520" last_tracklog_point_time="2019-06-09T16:28:28+02:00" last_tracklog_point_alt="487" landed_before_deadline="1" reachedGoal="1" />
+            <FsResult rank="3" points="938" distance="55.519" ss_time="02:27:02" finished_ss_rank="3" distance_points="695.4" time_points="193.2" arrival_points="0" departure_points="0" leading_points="49.6" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" finished_ss="2019-06-09T16:27:02+02:00" ss_time_dec_hours="2.45055555555556" ts="2019-06-09T18:29:48+02:00" real_distance="55.519" last_distance="55.519" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="416" scored_ss_time="02:27:02" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="46">
+            <FsFlightData distance="13.810" bonus_distance="14.652" started_ss="2019-06-09T14:02:15+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T14:45:20+02:00" tracklog_filename="_eljko_Kumer.20190609-173442.62526.46.igc" lc="3.22118031243217" iv="17103567" ts="2019-06-09T18:29:48+02:00" alt="531" bonus_alt="532" max_alt="1658" last_tracklog_point_distance="12.679" bonus_last_tracklog_point_distance="12.355" last_tracklog_point_time="2019-06-09T15:03:39+02:00" last_tracklog_point_alt="240" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="17" points="173" distance="13.81" ss_time="00:00:00" finished_ss_rank="4" distance_points="173" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="13.81" last_distance="12.679" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="50">
+            <FsFlightData distance="24.029" bonus_distance="24.835" started_ss="2019-06-09T14:00:42+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T15:05:42+02:00" tracklog_filename="shun_hanada.20190609-173442.67111.50.igc" lc="2.1685563556076" iv="11514428" ts="2019-06-09T18:29:48+02:00" alt="458" bonus_alt="568" max_alt="1751" last_tracklog_point_distance="23.568" bonus_last_tracklog_point_distance="23.340" last_tracklog_point_time="2019-06-09T15:09:19+02:00" last_tracklog_point_alt="264" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="11" points="315" distance="24.029" ss_time="00:00:00" finished_ss_rank="4" distance_points="301" time_points="0" arrival_points="0" departure_points="0" leading_points="14" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="24.029" last_distance="23.568" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="31">
+            <FsFlightData distance="50.719" bonus_distance="51.123" started_ss="2019-06-09T14:00:14+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T16:15:54+02:00" tracklog_filename="Pal_Takats.20190609-175944.4364.31.igc" lc="1.41490113019577" iv="7512729" ts="2019-06-09T18:29:48+02:00" alt="419" bonus_alt="425" max_alt="1817" last_tracklog_point_distance="50.612" bonus_last_tracklog_point_distance="50.928" last_tracklog_point_time="2019-06-09T16:17:21+02:00" last_tracklog_point_alt="400" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="4" points="689" distance="50.719" ss_time="00:00:00" finished_ss_rank="4" distance_points="635.3" time_points="0" arrival_points="0" departure_points="0" leading_points="53.3" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="50.719" last_distance="50.612" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="45">
+            <FsFlightData distance="48.131" bonus_distance="48.886" started_ss="2019-06-09T14:02:31+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T16:30:58+02:00" tracklog_filename="Yoshi_Pasha.20190609-175957.19034.45.igc" lc="1.82358419909193" iv="9682722" ts="2019-06-09T18:29:48+02:00" alt="473" bonus_alt="530" max_alt="1706" last_tracklog_point_distance="47.760" bonus_last_tracklog_point_distance="47.792" last_tracklog_point_time="2019-06-09T16:33:21+02:00" last_tracklog_point_alt="329" landed_before_deadline="1" reachedGoal="0" />
+            <FsResult rank="5" points="630" distance="48.131" ss_time="00:00:00" finished_ss_rank="4" distance_points="602.9" time_points="0" arrival_points="0" departure_points="0" leading_points="27.1" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="48.131" last_distance="47.76" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+          <FsParticipant id="34">
+            <FsFlightData distance="21.062" bonus_distance="0.000" started_ss="2019-06-09T14:02:28+02:00" finished_ss="" altitude_at_ess="0" finished_task="2019-06-09T15:17:43+02:00" tracklog_filename="Rok_Lorger.20190609-182915.63011.34.igc" lc="2.63042917792947" iv="13966844" ts="2019-06-09T18:29:48+02:00" alt="-32768" bonus_alt="-32768" max_alt="0" last_tracklog_point_distance="19.604" bonus_last_tracklog_point_distance="0.000" last_tracklog_point_time="2019-06-09T15:23:47+02:00" last_tracklog_point_alt="-32768" landed_before_deadline="1" reachedGoal="0" />
+            <FsFlightDataWarning warning="No baro altitude!" />
+            <FsResult rank="14" points="264" distance="21.062" ss_time="00:00:00" finished_ss_rank="4" distance_points="263.8" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2019-06-09T14:00:00+02:00" ss_time_dec_hours="0" ts="2019-06-09T18:29:48+02:00" real_distance="21.062" last_distance="19.604" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False" />
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="54.312" task_distance="55.519" launch_to_ess_distance="54.719" no_of_pilots_present="21" no_of_pilots_flying="21" no_of_pilots_lo="18" no_of_pilots_reaching_nom_dist="10" no_of_pilots_reaching_es="3" no_of_pilots_reaching_goal="3" sum_flown_distance="624.731" best_dist="55.519" best_time="2.28277777777778" worst_time="2.45055555555556" no_of_pilots_in_competition="21" no_of_pilots_landed_before_stop="0" sum_dist_over_min="524.731" sum_real_dist_over_min="524.731" sum_flown_distances="624.731" best_real_dist="55.519" last_start_time="2019-06-09T14:00:00+02:00" first_start_time="2019-06-09T14:00:00+02:00" first_finish_time="2019-06-09T16:16:58+02:00" max_time_to_get_time_points="3.7936641989815" no_of_pilots_with_time_points="3" goalratio="0.142857142857143" arrival_weight="0" departure_weight="0" leading_weight="0.0533066326530612" time_weight="0.251302696793003" distance_weight="0.695390670553936" smallest_leading_coefficient="1.41490113019577" available_points_distance="695.390670553936" available_points_time="251.302696793003" available_points_departure="0" available_points_leading="53.3066326530612" available_points_arrival="0" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1" ftv_day_validity="1" time_points_stop_correction="0">
+          <FsTaskDistToTp tp_no="1" distance="0.000" />
+          <FsTaskDistToTp tp_no="2" distance="0.407" />
+          <FsTaskDistToTp tp_no="3" distance="4.143" />
+          <FsTaskDistToTp tp_no="4" distance="16.363" />
+          <FsTaskDistToTp tp_no="5" distance="29.982" />
+          <FsTaskDistToTp tp_no="6" distance="39.205" />
+          <FsTaskDistToTp tp_no="7" distance="49.141" />
+          <FsTaskDistToTp tp_no="8" distance="54.719" />
+          <FsTaskDistToTp tp_no="9" distance="55.519" />
+        </FsTaskScoreParams>
+      </FsTask>
+    </FsTasks>
+  </FsCompetition>
+</Fs>
