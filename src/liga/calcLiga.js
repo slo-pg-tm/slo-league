@@ -1,7 +1,7 @@
 const getWinnerFactor = require('./getWinnerFactor');
 const getDiscardNumber = require('./getDiscardNumber');
 
-const getLigaTasksAndPilots = ({data, winnerFullPoints = false}) => {
+const getLigaTasksAndPilots = ({ data, winnerFullPoints = false }) => {
   let pilotsResults = {};
   let ligaTasks = [];
   let taskNumber = 0;
@@ -57,12 +57,16 @@ const getLigaTasksAndPilots = ({data, winnerFullPoints = false}) => {
   };
 };
 
-const calcScore = data => {
+const calcScore = ({ data, noDiscard, fixDiscard }) => {
   if (!data) {
     return null;
   }
 
-  const discards = getDiscardNumber(data.ligaTasks.length);
+  const discards = getDiscardNumber(
+    data.ligaTasks.length,
+    noDiscard,
+    fixDiscard
+  );
   const results = Object.keys(data.pilotsResults)
     .map(CIVLID => {
       const pilotData = data.pilotsResults[CIVLID];
@@ -101,9 +105,14 @@ const calcScore = data => {
   return results;
 };
 
-const calcLiga = ({data, winnerFullPoints = false}) => {
-  const pilotsAndTasks = getLigaTasksAndPilots({data, winnerFullPoints});
-  return calcScore(pilotsAndTasks);
+const calcLiga = ({
+  data,
+  winnerFullPoints = false,
+  noDiscard = false,
+  fixDiscard
+}) => {
+  const pilotsAndTasks = getLigaTasksAndPilots({ data, winnerFullPoints });
+  return calcScore({ data: pilotsAndTasks, noDiscard, fixDiscard });
 };
 
 module.exports = calcLiga;

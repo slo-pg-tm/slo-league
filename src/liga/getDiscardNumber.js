@@ -1,4 +1,12 @@
-const getDiscardNumber = (tasksCount) => {
+const getDiscardNumber = (tasksCount, noDiscard = false, fixDiscard = null) => {
+  if (noDiscard) {
+    return 0;
+  }
+
+  if (fixDiscard !== null) {
+    return tasksCount - fixDiscard;
+  }
+
   if (tasksCount > 15) {
     return tasksCount - 12;
   }
