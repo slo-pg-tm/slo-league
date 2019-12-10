@@ -67,6 +67,13 @@ const calcScore = ({ data, noDiscard, fixDiscard }) => {
     noDiscard,
     fixDiscard
   );
+  const stats = {
+    numberOfPilots: Object.keys(data.pilotsResults).length,
+    allTaskCounting: 0,
+    flowenTasks: [],
+    flowenTasksAvg: 0
+  };
+
   const results = Object.keys(data.pilotsResults)
     .map(CIVLID => {
       const pilotData = data.pilotsResults[CIVLID];
@@ -81,10 +88,16 @@ const calcScore = ({ data, noDiscard, fixDiscard }) => {
         }
       }
 
-      const sumPoints = pilotTasksArray
+      const countingResults = pilotTasksArray
         .sort((a, b) => b - a)
-        .slice(0, data.ligaTasks.length - discards)
-        .reduce((prev, curr) => prev + curr, 0);
+        .slice(0, data.ligaTasks.length - discards);
+      const areAllTasksCounting = !countingResults.includes(0);
+
+      if (areAllTasksCounting) stats.allTaskCounting += 1;
+
+      stats.flowenTasks.push(pilotTasksArray.filter(tsk => tsk !== 0).length);
+
+      const sumPoints = countingResults.reduce((prev, curr) => prev + curr, 0);
 
       return Object.assign(
         {},
@@ -102,7 +115,11 @@ const calcScore = ({ data, noDiscard, fixDiscard }) => {
     })
     .sort((a, b) => b.sumPoints - a.sumPoints);
 
-  return results;
+  stats.flowenTasksAvg =
+    stats.flowenTasks.reduce((acc, curr) => acc + curr, 0) /
+    stats.flowenTasks.length;
+
+  return { results, stats };
 };
 
 const calcLiga = ({
@@ -112,7 +129,12 @@ const calcLiga = ({
   fixDiscard
 }) => {
   const pilotsAndTasks = getLigaTasksAndPilots({ data, winnerFullPoints });
-  return calcScore({ data: pilotsAndTasks, noDiscard, fixDiscard });
+  const results = calcScore({
+    data: pilotsAndTasks,
+    noDiscard,
+    fixDiscard
+  });
+  return results;
 };
 
 module.exports = calcLiga;

@@ -12,7 +12,8 @@ class Page extends Component {
       compsData,
       resultsData,
       diffData,
-      colorLessPointsTask
+      colorLessPointsTask,
+      stats
     } = this.props;
 
     return (
@@ -22,6 +23,7 @@ class Page extends Component {
           titleWarn={titleWarn}
           organizer={organizer}
           compsData={compsData}
+          stats={stats}
         />
         <Results
           results={resultsData}
@@ -39,6 +41,7 @@ Page.propTypes = {
   organizer: PropTypes.string,
   compsData: PropTypes.array,
   resultsData: PropTypes.array,
+  stats: PropTypes.object,
   diffData: PropTypes.array,
   colorLessPointsTask: PropTypes.bool
 };
@@ -46,7 +49,8 @@ Page.propTypes = {
 Page.defaultProps = {
   titleWarn: '',
   diffData: [],
-  colorLessPointsTask: false
+  colorLessPointsTask: false,
+  stats: {}
 };
 
 export default Page;
